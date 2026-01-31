@@ -23,5 +23,3 @@ I am a **Software Development professional** focused on building robust web, mob
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/johnny-mwanza-3b180319a/)
 
----
-"I am eager to bring a problem-solving mindset and dedication to every project I touch."
